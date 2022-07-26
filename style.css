@@ -1,0 +1,19 @@
+.banner {
+    background-color: #FFF9F4;
+}
+
+span {
+    color: orangered;
+}
+
+.content {
+    background-color: #f9f6f6c0;
+}
+
+footer {
+    align-items: center;
+    text-align: center;
+    height: 70px;
+    background-color: #393737;
+    color: white;
+}
